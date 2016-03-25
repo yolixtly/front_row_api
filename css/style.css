@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+	font-family: 'Cinzel', serif;
+	font-weight: 700;
+/*	color: white;*/
+}
+h1 {
+	color: white;
+	font-family: 'Lemon', cursive;
+}
+footer {
+	background-color: white;
+	margin-bottom:0;
+	padding:20px;
+	margin-top: 10%;
+	height: 6rem;
+	vertical-align: baseline;
+    box-sizing: border-box;
+}
+footer {
+	padding: 1rem;
+}
+
+
+#icon1:before{
+	 font-family: FontAwesome;
+    content: '\f113';
+ }
+ #icon2:before{
+	 font-family: FontAwesome;
+    content: '\f099';
+ }
+  #icon3:before{
+	 font-family: FontAwesome;
+    content: '\f16d';
+ }
+ #icon4:before{
+	 font-family: FontAwesome;
+    content: '\f08c';
+ }
